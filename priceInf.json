@@ -1,0 +1,4 @@
+{"price": [{"server_hourly_cost": ".114", "network_hourly_cost": ".75", "provider":
+"Program"}, {"server_hourly_cost": ".30", "network_hourly_cost": ".10", "provider":
+"AWS"}, {"network_hourly_cost": ".20", "server_hourly_cost": ".10", "provider": "GC"
+}]}
