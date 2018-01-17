@@ -1,4 +1,4 @@
-# project-milestone-2-NiloofarSafi
+# MetaCDN
 
 The goal of the project is to implement a metaCDN. Below, you can find the description for each python file:
 
